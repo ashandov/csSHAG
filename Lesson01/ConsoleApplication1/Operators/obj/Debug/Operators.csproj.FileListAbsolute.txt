@@ -1,0 +1,5 @@
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson01\ConsoleApplication1\Operators\bin\Debug\Operators.exe.config
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson01\ConsoleApplication1\Operators\bin\Debug\Operators.exe
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson01\ConsoleApplication1\Operators\bin\Debug\Operators.pdb
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson01\ConsoleApplication1\Operators\obj\Debug\Operators.exe
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson01\ConsoleApplication1\Operators\obj\Debug\Operators.pdb

@@ -1,0 +1,5 @@
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson02\Shag_Cosole_Lesson02\Task02\bin\Debug\Task02.exe.config
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson02\Shag_Cosole_Lesson02\Task02\bin\Debug\Task02.exe
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson02\Shag_Cosole_Lesson02\Task02\bin\Debug\Task02.pdb
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson02\Shag_Cosole_Lesson02\Task02\obj\Debug\Task02.exe
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson02\Shag_Cosole_Lesson02\Task02\obj\Debug\Task02.pdb

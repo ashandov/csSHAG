@@ -1,0 +1,6 @@
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson02\Shag_Cosole_Lesson02\Strings\bin\Debug\Strings.exe.config
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson02\Shag_Cosole_Lesson02\Strings\bin\Debug\Strings.exe
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson02\Shag_Cosole_Lesson02\Strings\bin\Debug\Strings.pdb
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson02\Shag_Cosole_Lesson02\Strings\obj\Debug\Strings.csprojResolveAssemblyReference.cache
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson02\Shag_Cosole_Lesson02\Strings\obj\Debug\Strings.exe
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson02\Shag_Cosole_Lesson02\Strings\obj\Debug\Strings.pdb

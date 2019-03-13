@@ -1,0 +1,5 @@
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson01\ConsoleApplication1\Task03\bin\Debug\Task03.exe.config
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson01\ConsoleApplication1\Task03\bin\Debug\Task03.exe
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson01\ConsoleApplication1\Task03\bin\Debug\Task03.pdb
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson01\ConsoleApplication1\Task03\obj\Debug\Task03.exe
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson01\ConsoleApplication1\Task03\obj\Debug\Task03.pdb

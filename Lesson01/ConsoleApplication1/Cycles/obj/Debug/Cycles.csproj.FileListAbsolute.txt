@@ -1,0 +1,5 @@
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson01\ConsoleApplication1\Cycles\bin\Debug\Cycles.exe.config
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson01\ConsoleApplication1\Cycles\bin\Debug\Cycles.exe
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson01\ConsoleApplication1\Cycles\bin\Debug\Cycles.pdb
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson01\ConsoleApplication1\Cycles\obj\Debug\Cycles.exe
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson01\ConsoleApplication1\Cycles\obj\Debug\Cycles.pdb

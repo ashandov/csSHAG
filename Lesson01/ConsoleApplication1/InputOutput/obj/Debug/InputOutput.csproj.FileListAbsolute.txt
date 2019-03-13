@@ -1,0 +1,6 @@
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson01\ConsoleApplication1\InputOutput\bin\Debug\InputOutput.exe.config
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson01\ConsoleApplication1\InputOutput\bin\Debug\InputOutput.exe
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson01\ConsoleApplication1\InputOutput\bin\Debug\InputOutput.pdb
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson01\ConsoleApplication1\InputOutput\obj\Debug\InputOutput.exe
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson01\ConsoleApplication1\InputOutput\obj\Debug\InputOutput.pdb
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson01\ConsoleApplication1\InputOutput\obj\Debug\InputOutput.csprojResolveAssemblyReference.cache

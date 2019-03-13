@@ -1,0 +1,6 @@
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson01\ConsoleApplication1\DataTypes\bin\Debug\DataTypes.exe.config
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson01\ConsoleApplication1\DataTypes\bin\Debug\DataTypes.exe
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson01\ConsoleApplication1\DataTypes\bin\Debug\DataTypes.pdb
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson01\ConsoleApplication1\DataTypes\obj\Debug\DataTypes.exe
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson01\ConsoleApplication1\DataTypes\obj\Debug\DataTypes.pdb
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson01\ConsoleApplication1\DataTypes\obj\Debug\DataTypes.csprojResolveAssemblyReference.cache

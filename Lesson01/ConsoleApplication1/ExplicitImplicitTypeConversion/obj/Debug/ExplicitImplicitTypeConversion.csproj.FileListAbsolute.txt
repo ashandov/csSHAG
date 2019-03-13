@@ -1,0 +1,5 @@
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson01\ConsoleApplication1\ExplicitImplicitTypeConversion\bin\Debug\ExplicitImplicitTypeConversion.exe.config
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson01\ConsoleApplication1\ExplicitImplicitTypeConversion\bin\Debug\ExplicitImplicitTypeConversion.exe
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson01\ConsoleApplication1\ExplicitImplicitTypeConversion\bin\Debug\ExplicitImplicitTypeConversion.pdb
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson01\ConsoleApplication1\ExplicitImplicitTypeConversion\obj\Debug\ExplicitImplicitTypeConversion.exe
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson01\ConsoleApplication1\ExplicitImplicitTypeConversion\obj\Debug\ExplicitImplicitTypeConversion.pdb

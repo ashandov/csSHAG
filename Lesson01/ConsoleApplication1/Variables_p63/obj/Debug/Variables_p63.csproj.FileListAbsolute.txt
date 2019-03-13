@@ -1,0 +1,6 @@
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson01\ConsoleApplication1\Variables_p63\bin\Debug\Variables_p63.exe.config
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson01\ConsoleApplication1\Variables_p63\bin\Debug\Variables_p63.exe
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson01\ConsoleApplication1\Variables_p63\bin\Debug\Variables_p63.pdb
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson01\ConsoleApplication1\Variables_p63\obj\Debug\Variables_p63.exe
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson01\ConsoleApplication1\Variables_p63\obj\Debug\Variables_p63.pdb
+D:\Gal\EAM\Разработка\Обучение\ШАГ\VS\Lesson01\ConsoleApplication1\Variables_p63\obj\Debug\Variables_p63.csprojResolveAssemblyReference.cache

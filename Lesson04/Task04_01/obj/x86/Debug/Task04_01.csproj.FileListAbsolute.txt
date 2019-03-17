@@ -3,3 +3,4 @@
 /Users/anatolyshandov/Documents/C#/ШАГ/VS/Lesson04/Task04_01/obj/x86/Debug/Task04_01.csproj.CoreCompileInputs.cache
 /Users/anatolyshandov/Documents/C#/ШАГ/VS/Lesson04/Task04_01/obj/x86/Debug/Task04_01.exe
 /Users/anatolyshandov/Documents/C#/ШАГ/VS/Lesson04/Task04_01/obj/x86/Debug/Task04_01.pdb
+/Users/anatolyshandov/Documents/C#/ШАГ/VS/Lesson04/Task04_01/obj/x86/Debug/Task04_01.csprojAssemblyReference.cache

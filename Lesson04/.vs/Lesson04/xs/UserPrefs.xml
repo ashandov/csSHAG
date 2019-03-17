@@ -1,35 +1,27 @@
-﻿<Properties StartupConfiguration="{F0C36B79-FA8C-4888-B137-64850A42F9B8}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Task04_01/CompoundShape.cs">
+﻿<Properties StartupConfiguration="{64ED90D5-1614-4DDA-9C50-D070B2635FD6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task04_02/Program.cs">
     <Files>
-      <File FileName="Lesson04/Program.cs" Line="1" Column="1" />
-      <File FileName="Lesson04/VirtualMethods.cs" Line="29" Column="24" />
-      <File FileName="Task04_01/Program.cs" Line="13" Column="34" />
-      <File FileName="Task04_01/Triangle.cs" Line="1" Column="1" />
-      <File FileName="Task04_01/Rhombus.cs" Line="45" Column="2" />
-      <File FileName="Task04_01/Rhombus.cs" Line="42" Column="26" />
-      <File FileName="Task04_01/Rectangle.cs" Line="1" Column="1" />
-      <File FileName="Task04_01/Ellipse.cs" Line="12" Column="16" />
-      <File FileName="Task04_01/Parallelogram.cs" Line="1" Column="1" />
-      <File FileName="Task04_01/Trapeze.cs" Line="1" Column="1" />
-      <File FileName="Task04_01/Square.cs" Line="1" Column="1" />
-      <File FileName="Task04_01/Round.cs" Line="1" Column="1" />
-      <File FileName="Task04_01/GiometricFigure.cs" Line="1" Column="1" />
-      <File FileName="Task04_01/CompoundShape.cs" Line="1" Column="1" />
+      <File FileName="Task04_02/Product.cs" Line="99" Column="13" />
+      <File FileName="Task04_01/Program.cs" Line="13" Column="43" />
+      <File FileName="Task04_02/Food.cs" Line="65" Column="16" />
+      <File FileName="Task04_02/Product.cs" Line="1" Column="1" />
+      <File FileName="Task04_02/Program.cs" Line="10" Column="85" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Lesson04" expanded="True">
             <Node name="Lesson04" expanded="True" />
-            <Node name="Task04_01" expanded="True">
-              <Node name="CompoundShape.cs" selected="True" />
+            <Node name="Task04_01" expanded="True" />
+            <Node name="Task04_02" expanded="True">
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
         <State>
-          <Value>item.Key.ToString()</Value>
+          <Value>figure.FigureArea()</Value>
           <Value>miracleType.GetType()</Value>
           <Value>typeof(FirstMiracle)</Value>
         </State>
@@ -37,12 +29,13 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Lesson04 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Task04__02 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Task04__01 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/anatolyshandov/Documents/C#/ШАГ/VS/Lesson04/Task04_01/Program.cs" relfile="Task04_01/Program.cs" line="13" column="43" />
+      <Breakpoint file="/Users/anatolyshandov/Documents/C#/ШАГ/VS/Lesson04/Task04_01/CompoundShape.cs" relfile="Task04_01/CompoundShape.cs" line="20" column="14" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />

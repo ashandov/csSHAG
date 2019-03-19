@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson05", "Lesson05\Lesson05.csproj", "{6CC8BE63-4FC8-498A-8E00-12D88F7ACF7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task05_01", "Task05\Task05_01.csproj", "{B2583914-1024-4F1C-97CE-7C161B277357}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CC8BE63-4FC8-498A-8E00-12D88F7ACF7A}.Debug|x86.ActiveCfg = Debug|x86
+		{6CC8BE63-4FC8-498A-8E00-12D88F7ACF7A}.Debug|x86.Build.0 = Debug|x86
+		{6CC8BE63-4FC8-498A-8E00-12D88F7ACF7A}.Release|x86.ActiveCfg = Release|x86
+		{6CC8BE63-4FC8-498A-8E00-12D88F7ACF7A}.Release|x86.Build.0 = Release|x86
+		{B2583914-1024-4F1C-97CE-7C161B277357}.Debug|x86.ActiveCfg = Debug|x86
+		{B2583914-1024-4F1C-97CE-7C161B277357}.Debug|x86.Build.0 = Debug|x86
+		{B2583914-1024-4F1C-97CE-7C161B277357}.Release|x86.ActiveCfg = Release|x86
+		{B2583914-1024-4F1C-97CE-7C161B277357}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

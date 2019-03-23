@@ -1,0 +1,6 @@
+/Users/anatolyshandov/Documents/C#/ШАГ/VS/Lesson05/Task05_04/obj/x86/Debug/Task05_04.csprojAssemblyReference.cache
+/Users/anatolyshandov/Documents/C#/ШАГ/VS/Lesson05/Task05_04/obj/x86/Debug/Task05_04.csproj.CoreCompileInputs.cache
+/Users/anatolyshandov/Documents/C#/ШАГ/VS/Lesson05/Task05_04/bin/Debug/Task05_04.exe
+/Users/anatolyshandov/Documents/C#/ШАГ/VS/Lesson05/Task05_04/bin/Debug/Task05_04.pdb
+/Users/anatolyshandov/Documents/C#/ШАГ/VS/Lesson05/Task05_04/obj/x86/Debug/Task05_04.exe
+/Users/anatolyshandov/Documents/C#/ШАГ/VS/Lesson05/Task05_04/obj/x86/Debug/Task05_04.pdb

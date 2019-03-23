@@ -1,13 +1,10 @@
-﻿<Properties StartupConfiguration="{B2583914-1024-4F1C-97CE-7C161B277357}|Default">
+﻿<Properties StartupConfiguration="{22831B91-5A9C-4426-AF37-3A559CC5BB97}|Default">
+  <MonoDevelop.Ide.ItemProperties.Task05__04 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Task05__01 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task05_04/Fraction.cs">
     <Files>
-      <File FileName="Lesson05/Program.cs" Line="66" Column="70" />
-      <File FileName="Lesson05/Properties/Point.cs" Line="37" Column="58" />
-      <File FileName="Lesson05/Properties/Vector.cs" Line="20" Column="58" />
-      <File FileName="Lesson05/Properties/CastingOperatorReloading.cs" Line="71" Column="1" />
-      <File FileName="Lesson05/Properties/Indexer.cs" Line="25" Column="29" />
-      <File FileName="Task05/Program.cs" Line="26" Column="37" />
+      <File FileName="Task05_04/Fraction.cs" Line="52" Column="65" />
+      <File FileName="Task05_04/Program.cs" Line="21" Column="33" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,31 +13,37 @@
             <Node name="Lesson05" expanded="True">
               <Node name="Properties" expanded="True" />
             </Node>
-            <Node name="Task05_01" expanded="True">
-              <Node name="Program.cs" selected="True" />
+            <Node name="Task05_01" expanded="True" />
+            <Node name="Task05_02" expanded="True" />
+            <Node name="Task05_03" expanded="True" />
+            <Node name="Task05_04" expanded="True">
+              <Node name="Fraction.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
         <State>
-          <Value>aValue.ToString()</Value>
+          <Value>snumber.Length - 1 - index</Value>
           <Value>string s1=aValue.ToString()</Value>
           <Value>s1</Value>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Task05__03 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Lesson05 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Task05__02 FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/anatolyshandov/Documents/C#/ШАГ/VS/Lesson05/Lesson05/Properties/Vector.cs" relfile="Lesson05/Properties/Vector.cs" line="19" column="10" />
       <Breakpoint file="/Users/anatolyshandov/Documents/C#/ШАГ/VS/Lesson05/Lesson05/Properties/Indexer.cs" relfile="Lesson05/Properties/Indexer.cs" line="22" column="10" />
       <Breakpoint file="/Users/anatolyshandov/Documents/C#/ШАГ/VS/Lesson05/Lesson05/Properties/Indexer.cs" relfile="Lesson05/Properties/Indexer.cs" line="25" column="16" />
-      <Breakpoint file="/Users/anatolyshandov/Documents/C#/ШАГ/VS/Lesson05/Task05/Program.cs" relfile="Task05/Program.cs" line="21" column="10" />
+      <Breakpoint file="/Users/anatolyshandov/Documents/C#/ШАГ/VS/Lesson05/Task05/Program.cs" relfile="Task05/Program.cs" line="22" column="10" />
       <Breakpoint file="/Users/anatolyshandov/Documents/C#/ШАГ/VS/Lesson05/Task05/Program.cs" relfile="Task05/Program.cs" line="15" column="10" />
+      <Breakpoint file="/Users/anatolyshandov/Documents/C#/ШАГ/VS/Lesson05/Task05_04/Fraction.cs" relfile="Task05_04/Fraction.cs" line="9" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />

@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{8E5F6CE9-0A89-4DF1-BF23-4F5A4C4EA469}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task06_01/Program.cs">
+    <Files>
+      <File FileName="Task06_01/Ellipse.cs" Line="1" Column="1" />
+      <File FileName="Task06_01/Rhombus.cs" Line="1" Column="1" />
+      <File FileName="Task06_01/ISimpleNAngleFigure.cs" Line="1" Column="1" />
+      <File FileName="Task06_01/Square.cs" Line="1" Column="1" />
+      <File FileName="Task06_01/Ellipse.cs" Line="1" Column="1" />
+      <File FileName="Task06_01/Trapeze.cs" Line="1" Column="1" />
+      <File FileName="Task06_01/Parallelogram.cs" Line="1" Column="1" />
+      <File FileName="Task06_01/Rhombus.cs" Line="1" Column="1" />
+      <File FileName="Task06_01/Square.cs" Line="1" Column="1" />
+      <File FileName="Task06_01/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lesson06" expanded="True">
+            <Node name="Lesson06" expanded="True" />
+            <Node name="Task06_01" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Task06__01 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Lesson06 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,5 @@
+/Users/anatolyshandov/Documents/C#/ШАГ/VS/Lesson06/Lesson06/bin/Debug/Lesson06.exe
+/Users/anatolyshandov/Documents/C#/ШАГ/VS/Lesson06/Lesson06/bin/Debug/Lesson06.pdb
+/Users/anatolyshandov/Documents/C#/ШАГ/VS/Lesson06/Lesson06/obj/x86/Debug/Lesson06.csproj.CoreCompileInputs.cache
+/Users/anatolyshandov/Documents/C#/ШАГ/VS/Lesson06/Lesson06/obj/x86/Debug/Lesson06.exe
+/Users/anatolyshandov/Documents/C#/ШАГ/VS/Lesson06/Lesson06/obj/x86/Debug/Lesson06.pdb

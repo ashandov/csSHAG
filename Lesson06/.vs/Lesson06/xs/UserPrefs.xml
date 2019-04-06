@@ -1,16 +1,20 @@
 ﻿<Properties StartupConfiguration="{8E5F6CE9-0A89-4DF1-BF23-4F5A4C4EA469}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Task06_01/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task06_01/Trapeze.cs">
     <Files>
       <File FileName="Task06_01/Ellipse.cs" Line="1" Column="1" />
-      <File FileName="Task06_01/Rhombus.cs" Line="1" Column="1" />
-      <File FileName="Task06_01/ISimpleNAngleFigure.cs" Line="1" Column="1" />
-      <File FileName="Task06_01/Square.cs" Line="1" Column="1" />
-      <File FileName="Task06_01/Ellipse.cs" Line="1" Column="1" />
-      <File FileName="Task06_01/Trapeze.cs" Line="1" Column="1" />
-      <File FileName="Task06_01/Parallelogram.cs" Line="1" Column="1" />
-      <File FileName="Task06_01/Rhombus.cs" Line="1" Column="1" />
-      <File FileName="Task06_01/Square.cs" Line="1" Column="1" />
-      <File FileName="Task06_01/Program.cs" Line="1" Column="1" />
+      <File FileName="Task06_01/Rhombus.cs" Line="42" Column="1" />
+      <File FileName="Task06_01/ISimpleNAngleFigure.cs" Line="15" Column="21" />
+      <File FileName="Task06_01/Square.cs" Line="152" Column="10" />
+      <File FileName="Task06_01/Parallelogram.cs" Line="204" Column="10" />
+      <File FileName="Task06_01/Program.cs" Line="19" Column="66" />
+      <File FileName="Task06_01/CompoundShape.cs" Line="1" Column="1" />
+      <File FileName="Task06_01/GiometricFigure.cs" Line="1" Column="1" />
+      <File FileName="Task06_01/Triangle.cs" Line="242" Column="10" />
+      <File FileName="Task06_01/Rectangle.cs" Line="171" Column="39" />
+      <File FileName="Task06_01/Round.cs" Line="36" Column="25" />
+      <File FileName="Task06_02/FigureCollection.cs" Line="221" Column="37" />
+      <File FileName="Task06_02/Program.cs" Line="9" Column="48" />
+      <File FileName="Task06_01/Trapeze.cs" Line="209" Column="38" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,9 +22,18 @@
           <Node name="Lesson06" expanded="True">
             <Node name="Lesson06" expanded="True" />
             <Node name="Task06_01" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="References" expanded="True" />
+              <Node name="Trapeze.cs" selected="True" />
             </Node>
+            <Node name="Task06_02" expanded="True" />
           </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>snumber.Length - 1 - index</Value>
+          <Value>string s1=aValue.ToString()</Value>
+          <Value>s1</Value>
         </State>
       </Pad>
     </Pads>
@@ -30,7 +43,13 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/anatolyshandov/Documents/C#/ШАГ/VS/Lesson06/Task06_01/Triangle.cs" relfile="Task06_01/Triangle.cs" line="242" column="10" />
+      <Breakpoint file="/Users/anatolyshandov/Documents/C#/ШАГ/VS/Lesson06/Task06_01/Trapeze.cs" relfile="Task06_01/Trapeze.cs" line="9" column="18" />
+      <Breakpoint file="/Users/anatolyshandov/Documents/C#/ШАГ/VS/Lesson06/Task06_01/Parallelogram.cs" relfile="Task06_01/Parallelogram.cs" line="180" column="1" />
+      <Breakpoint file="/Users/anatolyshandov/Documents/C#/ШАГ/VS/Lesson06/Task06_01/Rectangle.cs" relfile="Task06_01/Rectangle.cs" line="155" column="10" />
+      <Breakpoint file="/Users/anatolyshandov/Documents/C#/ШАГ/VS/Lesson06/Task06_01/Trapeze.cs" relfile="Task06_01/Trapeze.cs" line="214" column="10" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

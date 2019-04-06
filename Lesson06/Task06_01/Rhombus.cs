@@ -6,26 +6,26 @@ using System.Threading.Tasks;
 
 namespace Task06_01
 {
-    public class Rhombus : GiometricFigure,ISimpleNAngleFigure
+    public class Rhombus : GiometricFigure, ISimpleNAngleFigure
     {
 
         private double _sideA;
-        private double _sideB;
         private double _height;
         private double _diagonal1;
         private double _diagonal2;
         private double _angle;
         private double _base;
-        public Rhombus(double sideA, double sideB, double h, double d1, double d2)
+        public Rhombus(double sideA, double h, double d1, double d2)
         {
-            SideB = sideB;
+            SideA = sideA;
             Height = h;
+            _base = sideA;
             Diagonal1 = d1;
             Diagonal2 = d2;
         }
-        public Rhombus(double sideA, double h) : this(sideA, 0, h, 0, 0)
+        public Rhombus(double sideA, double h) : this(sideA, 0, h, 0)
         { }
-		
+
         public double SideA
         {
             get
@@ -39,19 +39,7 @@ namespace Task06_01
             }
 
         }
-        public double SideB
-        {
-            get
-            {
-                return _sideB;
-            }
-            set
-            {
-                CheckInput(value);
-                _sideB = value;
-            }
 
-        }
         public double Height
         {
             get
@@ -129,17 +117,17 @@ namespace Task06_01
 
 
         public override double FigureArea
-        { 
-        get
         {
-          if (Height != 0)
-          { 
-             return (SideA * Height) / 2;
-             }
+            get
+            {
+                if (Height != 0)
+                {
+                    return (SideA * Height) / 2;
+                }
                 else
                 {
 
-                   return (Diagonal1*Diagonal2) / 2;
+                    return (Diagonal1 * Diagonal2) / 2;
                 }
             }
         }
@@ -161,4 +149,17 @@ namespace Task06_01
                 throw new ArgumentOutOfRangeException("Input value can't be negative");
             }
         }
-    }}
+        public void Draw()
+        {
+            for (int i = 0; i < SideA; i++)
+            {
+
+                for (int j = 0; j < i; j++)
+                {
+                    Console.Write("");
+                }
+                Console.WriteLine("*");
+            }
+        }
+    }
+}

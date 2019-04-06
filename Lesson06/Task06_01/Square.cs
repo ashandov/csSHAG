@@ -4,142 +4,154 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-    namespace Task06_01
+namespace Task06_01
+{
+    public class Square : GiometricFigure, ISimpleNAngleFigure
     {
-        public class Square : GiometricFigure,ISimpleNAngleFigure
+
+        private double _sideA;
+        private double _height;
+        private double _diagonal1;
+        private double _diagonal2;
+        private double _angle;
+        private double _base;
+        public Square(double sideA, double d1, double d2)
         {
+            SideA = sideA;
+            Height = sideA;
+            _base = sideA;
+            Diagonal1 = d1;
+            Diagonal2 = d2;
+            AngleBetweenSides = 90;
+        }
 
-            private double _sideA;
-            private double _height;
-            private double _diagonal1;
-            private double _diagonal2;
-            private double _angle;
-            private double _base;
-            public Square(double sideA, double d1, double d2)
+        public double SideA
+        {
+            get
             {
-                SideA = sideA;
-                Height = sideA;
-                _base = sideA;
-                Diagonal1 = d1;
-                Diagonal2 = d2;
-                AngleBetweenSides = 90;
+                return _sideA;
+            }
+            set
+            {
+                CheckInput(value);
+                _sideA = value;
             }
 
-            public double SideA
-            {
-                get
-                {
-                    return _sideA;
-                }
-                set
-                {
-                    CheckInput(value);
-                    _sideA = value;
-                }
+        }
 
+        public double Height
+        {
+            get
+            {
+                return _height;
+            }
+            set
+            {
+                CheckInput(value);
+                _height = value;
             }
 
-            public double Height
+        }
+        public double Diagonal1
+        {
+            get
             {
-                get
-                {
-                    return _height;
-                }
-                set
-                {
-                    CheckInput(value);
-                    _height = value;
-                }
-
+                return _diagonal1;
             }
-            public double Diagonal1
+            set
             {
-                get
-                {
-                    return _diagonal1;
-                }
-                set
-                {
-                    CheckInput(value);
-                    _diagonal1 = value;
-                }
-
-            }
-            public double Diagonal2
-            {
-                get
-                {
-                    return _diagonal2;
-                }
-                set
-                {
-                    CheckInput(value);
-                    _diagonal2 = value;
-                }
-
-            }
-            public double AngleBetweenSides
-            {
-                get
-                {
-                    return _angle;
-                }
-                set
-                {
-                    CheckInput(value);
-                    _angle = value;
-                }
+                CheckInput(value);
+                _diagonal1 = value;
             }
 
-            public double SidesLenght
+        }
+        public double Diagonal2
+        {
+            get
             {
-                get
-                {
-                    return FigurePerimetr;
-                }
+                return _diagonal2;
+            }
+            set
+            {
+                CheckInput(value);
+                _diagonal2 = value;
             }
 
-            public double Base
+        }
+        public double AngleBetweenSides
+        {
+            get
             {
-                get
-                {
-                    return _base;
-                }
+                return _angle;
             }
-            public int SidesCount
+            set
             {
-                get
-                {
-                    return 4;
-                }
+                CheckInput(value);
+                _angle = value;
             }
+        }
+
+        public double SidesLenght
+        {
+            get
+            {
+                return FigurePerimetr;
+            }
+        }
+
+        public double Base
+        {
+            get
+            {
+                return _base;
+            }
+        }
+        public int SidesCount
+        {
+            get
+            {
+                return 4;
+            }
+        }
 
 
-            public override double FigureArea
+        public override double FigureArea
+        {
+            get
             {
-                get
-                {
-                    return SideA * SideA;
-                }
+                return SideA * SideA;
             }
+        }
 
-            public override double FigurePerimetr
+        public override double FigurePerimetr
+        {
+            get
             {
-                get
-                {
-                    return SideA * 4;
-                }
+                return SideA * 4;
             }
+        }
 
-            public override void CheckInput(double value)
+        public override void CheckInput(double value)
+        {
+            if (value < 0)
             {
-                if (value < 0)
+                throw new ArgumentOutOfRangeException("Input value can't be negative");
+            }
+        }
+        public void Draw()
+        {
+            for (int i = 0; i < SideA; i++)
+            {
+
+                for (int j = 0; j < i; j++)
                 {
-                    throw new ArgumentOutOfRangeException("Input value can't be negative");
+                    Console.Write("");
                 }
+                Console.WriteLine("*");
             }
         }
     }
+}
 
 
 

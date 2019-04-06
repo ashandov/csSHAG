@@ -5,12 +5,13 @@ namespace Task06_01
     {
         double Height { get; set; }
         double SidesLenght { get; }
-        double Base { get;  }
+        double Base { get; }
         double AngleBetweenSides { get; set; }
         int SidesCount { get; }
 
 
         double FigureArea { get; }
         double FigurePerimetr { get; }
+        void Draw();
     }
 }

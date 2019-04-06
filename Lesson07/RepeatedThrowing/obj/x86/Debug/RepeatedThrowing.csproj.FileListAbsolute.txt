@@ -1,0 +1,5 @@
+/Users/anatolyshandov/Documents/C#/ШАГ/VS/Lesson07/RepeatedThrowing/bin/Debug/RepeatedThrowing.exe
+/Users/anatolyshandov/Documents/C#/ШАГ/VS/Lesson07/RepeatedThrowing/bin/Debug/RepeatedThrowing.pdb
+/Users/anatolyshandov/Documents/C#/ШАГ/VS/Lesson07/RepeatedThrowing/obj/x86/Debug/RepeatedThrowing.csproj.CoreCompileInputs.cache
+/Users/anatolyshandov/Documents/C#/ШАГ/VS/Lesson07/RepeatedThrowing/obj/x86/Debug/RepeatedThrowing.exe
+/Users/anatolyshandov/Documents/C#/ШАГ/VS/Lesson07/RepeatedThrowing/obj/x86/Debug/RepeatedThrowing.pdb

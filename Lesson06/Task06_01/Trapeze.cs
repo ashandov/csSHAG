@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Task06_01
 {
-    public class Trapeze : GiometricFigure,ISimpleNAngleFigure
+    public class Trapeze : GiometricFigure, ISimpleNAngleFigure
     {
 
         private double _sideA;
@@ -191,6 +191,50 @@ namespace Task06_01
             if (value < 0)
             {
                 throw new ArgumentOutOfRangeException("Input value can't be negative");
+            }
+        }
+        public void DrawBySideA(int i)
+        {
+            Console.Write("   ");
+            for (int j = (int)SideA; j > i; j--)
+            {
+                Console.Write(" ");
+            }
+
+        }
+        public void DrawBySideB()
+        {
+            for (int k = 0; k < SideB; k++)
+            {
+                Console.Write("   *   ");
+            }
+
+        }
+        public void Draw()
+        {
+            for (int i = 0; i < SideA; i++)
+            {
+                if (i == 0)
+                {
+                    DrawBySideB();
+                    Console.WriteLine();
+                }
+
+                DrawBySideA(i);
+
+                Console.Write("*");
+                for (int k = 0; k < SideB; k++)
+                {
+                    Console.Write("      ");
+                }
+                Console.Write("*");
+                Console.WriteLine();
+
+                if (i == (int)(SideA - 1))
+                {
+                    DrawBySideA(i);
+                    DrawBySideB();
+                }
             }
         }
     }

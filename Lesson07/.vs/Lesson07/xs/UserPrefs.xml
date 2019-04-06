@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{912C01A9-1568-4A80-93B0-6E63527A8FB3}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lesson07 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RepeatedThrowing/Program.cs">
+    <Files>
+      <File FileName="Lesson07/Program.cs" Line="22" Column="35" />
+      <File FileName="Lesson07/MyException.cs" Line="20" Column="11" />
+      <File FileName="FewCatchBlocks/Program.cs" Line="14" Column="38" />
+      <File FileName="CatchHierarchy/Program.cs" Line="13" Column="43" />
+      <File FileName="RepeatedThrowing/Program.cs" Line="39" Column="2" />
+      <File FileName="Checked_Unchecked/Program.cs" Line="22" Column="14" />
+      <File FileName="ExceptionFilter/Program.cs" Line="39" Column="45" />
+      <File FileName="NameOfExample/Program.cs" Line="9" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lesson07" expanded="True">
+            <Node name="CatchHierarchy" expanded="True" />
+            <Node name="Checked_Unchecked" expanded="True" />
+            <Node name="ExceptionFilter" expanded="True" />
+            <Node name="FewCatchBlocks" expanded="True" />
+            <Node name="Lesson07" expanded="True" />
+            <Node name="NameOfExample" expanded="True" />
+            <Node name="RepeatedThrowing" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.RepeatedThrowing PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.FewCatchBlocks PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CatchHierarchy PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.Checked__Unchecked PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/anatolyshandov/Documents/C#/ШАГ/VS/Lesson07/FewCatchBlocks/Program.cs" relfile="FewCatchBlocks/Program.cs" line="13" column="1" />
+      <Breakpoint file="/Users/anatolyshandov/Documents/C#/ШАГ/VS/Lesson07/FewCatchBlocks/Program.cs" relfile="FewCatchBlocks/Program.cs" line="14" column="34" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ExceptionFilter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.NameOfExample PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

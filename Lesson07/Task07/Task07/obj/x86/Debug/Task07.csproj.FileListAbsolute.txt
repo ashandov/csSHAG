@@ -1,0 +1,6 @@
+/Users/anatolyshandov/Projects/Task07/Task07/bin/Debug/Task07.exe
+/Users/anatolyshandov/Projects/Task07/Task07/bin/Debug/Task07.pdb
+/Users/anatolyshandov/Projects/Task07/Task07/obj/x86/Debug/Task07.csprojAssemblyReference.cache
+/Users/anatolyshandov/Projects/Task07/Task07/obj/x86/Debug/Task07.csproj.CoreCompileInputs.cache
+/Users/anatolyshandov/Projects/Task07/Task07/obj/x86/Debug/Task07.exe
+/Users/anatolyshandov/Projects/Task07/Task07/obj/x86/Debug/Task07.pdb

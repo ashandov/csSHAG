@@ -27,7 +27,7 @@ namespace Task06_01
         {
 
         }
-        public Parallelogram(double sideA, double h) : this(sideA, 0, h, 0,0)
+        public Parallelogram(double sideA, double h) : this(sideA, 0, h, 0, 0)
         {
 
         }
@@ -84,7 +84,7 @@ namespace Task06_01
             }
 
         }
-        
+
         public double AngleBetweenSides
         {
             get
@@ -130,7 +130,7 @@ namespace Task06_01
                 {
                     return SideA * Height;
                 }
-                else if (Diagonal1 != 0  && AngleBetweenSides != 0)
+                else if (Diagonal1 != 0 && AngleBetweenSides != 0)
                 {
                     return (Diagonal1 * Diagonal1 * Math.Sin(AngleBetweenSides)) / 2;
                 }
@@ -159,5 +159,49 @@ namespace Task06_01
                 throw new ArgumentOutOfRangeException("Input value can't be negative");
             }
         }
+        public void DrawBySideA(int i)
+        {
+            Console.Write("   ");
+            for (int j = 0; j < i; j++)
+            {
+                Console.Write(" ");
+            }
+
+        }
+        public void DrawBySideB()
+        {
+            for (int k = 0; k < SideB; k++)
+            {
+                Console.Write("   *   ");
+            }
+
+        }
+        public void Draw()
+        {
+            for (int i = 0; i < SideA; i++)
+            {
+                if (i == 0)
+                {
+                    DrawBySideB();
+                }
+                Console.WriteLine();
+                DrawBySideA(i);
+
+                Console.Write("*");
+                for (int k = 0; k < SideB; k++)
+                {
+                    Console.Write("      ");
+                }
+                Console.Write("*");
+                Console.WriteLine();
+
+                if (i == (int)(SideA - 1))
+                {
+                    DrawBySideA(i);
+                    DrawBySideB();
+                }
+            }
+        }
+
     }
 }

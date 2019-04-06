@@ -33,7 +33,7 @@ namespace Task06_01
             }
 
         }
-        public double FigureArea
+        public override double FigureArea
         {
             get
             {
@@ -41,7 +41,7 @@ namespace Task06_01
 
             }
         }
-        public double FigurePerimetr
+        public override double FigurePerimetr
         {
             get
             {
@@ -49,12 +49,12 @@ namespace Task06_01
             }
         }
 
-		public override void CheckInput(double value)
-		{
-			if (value < 0)
-			{
-				throw new ArgumentOutOfRangeException("Input value can't be negative");
-			}
-		}
-	}
+        public override void CheckInput(double value)
+        {
+            if (value < 0)
+            {
+                throw new ArgumentOutOfRangeException("Input value can't be negative");
+            }
+        }
+    }
 }

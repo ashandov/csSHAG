@@ -1,0 +1,6 @@
+/Users/anatolyshandov/Projects/Lesson09/RegularExpressions/obj/x86/Debug/RegularExpressions.csprojAssemblyReference.cache
+/Users/anatolyshandov/Projects/Lesson09/RegularExpressions/obj/x86/Debug/RegularExpressions.csproj.CoreCompileInputs.cache
+/Users/anatolyshandov/Projects/Lesson09/RegularExpressions/bin/Debug/RegularExpressions.exe
+/Users/anatolyshandov/Projects/Lesson09/RegularExpressions/bin/Debug/RegularExpressions.pdb
+/Users/anatolyshandov/Projects/Lesson09/RegularExpressions/obj/x86/Debug/RegularExpressions.exe
+/Users/anatolyshandov/Projects/Lesson09/RegularExpressions/obj/x86/Debug/RegularExpressions.pdb

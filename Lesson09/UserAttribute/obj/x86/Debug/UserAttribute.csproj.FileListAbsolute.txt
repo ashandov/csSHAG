@@ -1,0 +1,6 @@
+/Users/anatolyshandov/Projects/Lesson09/UserAttribute/obj/x86/Debug/UserAttribute.csprojAssemblyReference.cache
+/Users/anatolyshandov/Projects/Lesson09/UserAttribute/obj/x86/Debug/UserAttribute.csproj.CoreCompileInputs.cache
+/Users/anatolyshandov/Projects/Lesson09/UserAttribute/bin/Debug/UserAttribute.exe
+/Users/anatolyshandov/Projects/Lesson09/UserAttribute/bin/Debug/UserAttribute.pdb
+/Users/anatolyshandov/Projects/Lesson09/UserAttribute/obj/x86/Debug/UserAttribute.exe
+/Users/anatolyshandov/Projects/Lesson09/UserAttribute/obj/x86/Debug/UserAttribute.pdb

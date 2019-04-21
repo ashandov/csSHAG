@@ -1,0 +1,6 @@
+/Users/anatolyshandov/Projects/Lesson09/Lesson09/bin/Debug/Lesson09.exe
+/Users/anatolyshandov/Projects/Lesson09/Lesson09/bin/Debug/Lesson09.pdb
+/Users/anatolyshandov/Projects/Lesson09/Lesson09/obj/x86/Debug/Lesson09.csprojAssemblyReference.cache
+/Users/anatolyshandov/Projects/Lesson09/Lesson09/obj/x86/Debug/Lesson09.csproj.CoreCompileInputs.cache
+/Users/anatolyshandov/Projects/Lesson09/Lesson09/obj/x86/Debug/Lesson09.exe
+/Users/anatolyshandov/Projects/Lesson09/Lesson09/obj/x86/Debug/Lesson09.pdb

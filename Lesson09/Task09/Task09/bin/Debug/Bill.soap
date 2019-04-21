@@ -1,0 +1,12 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/clr/" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+  <SOAP-ENV:Body>
+    <a1:Bill id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Task09/Task09%2C%20Version%3D1.0.7050.21270%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <DailyPrice xsi:type="xsd:decimal">30</DailyPrice>
+      <Days>7</Days>
+      <DelayDays>5</DelayDays>
+      <Fine xsi:type="xsd:decimal">25</Fine>
+      <WithoutFineSum xsi:type="xsd:decimal">210</WithoutFineSum>
+      <TotalSum xsi:type="xsd:decimal">335</TotalSum>
+    </a1:Bill>
+  </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

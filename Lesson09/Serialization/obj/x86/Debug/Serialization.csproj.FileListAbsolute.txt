@@ -1,0 +1,6 @@
+/Users/anatolyshandov/Projects/Lesson09/Serialization/bin/Debug/Serialization.exe
+/Users/anatolyshandov/Projects/Lesson09/Serialization/bin/Debug/Serialization.pdb
+/Users/anatolyshandov/Projects/Lesson09/Serialization/obj/x86/Debug/Serialization.csproj.CoreCompileInputs.cache
+/Users/anatolyshandov/Projects/Lesson09/Serialization/obj/x86/Debug/Serialization.exe
+/Users/anatolyshandov/Projects/Lesson09/Serialization/obj/x86/Debug/Serialization.pdb
+/Users/anatolyshandov/Projects/Lesson09/Serialization/obj/x86/Debug/Serialization.csprojAssemblyReference.cache

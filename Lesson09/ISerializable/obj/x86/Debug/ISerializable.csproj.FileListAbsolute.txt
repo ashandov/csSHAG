@@ -1,0 +1,5 @@
+/Users/anatolyshandov/Projects/Lesson09/ISerializable/obj/x86/Debug/ISerializable.csproj.CoreCompileInputs.cache
+/Users/anatolyshandov/Projects/Lesson09/ISerializable/bin/Debug/ISerializable.exe
+/Users/anatolyshandov/Projects/Lesson09/ISerializable/bin/Debug/ISerializable.pdb
+/Users/anatolyshandov/Projects/Lesson09/ISerializable/obj/x86/Debug/ISerializable.exe
+/Users/anatolyshandov/Projects/Lesson09/ISerializable/obj/x86/Debug/ISerializable.pdb
